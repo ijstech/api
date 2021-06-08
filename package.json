@@ -1,14 +1,14 @@
 {
     "name": "@ijstech/api",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "description": "A secure API middleware",
     "author": "https://ijs.network",    
     "license": "MIT",        
     "dependencies": {
         "koa-body": "4.2.0",        
         "@ijstech/log": "^0.1.0",
-        "@ijstech/module": "^0.1.5",
-        "@ijstech/vm": "^0.1.4"
+        "@ijstech/module": "^0.1.8",
+        "@ijstech/vm": "^0.1.5"
     },    
     "repository": {
         "type": "git",
